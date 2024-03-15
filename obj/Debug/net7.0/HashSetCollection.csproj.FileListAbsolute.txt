@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/bin/Debug/net7.0/HashSetCollection
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/bin/Debug/net7.0/HashSetCollection.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/bin/Debug/net7.0/HashSetCollection.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/bin/Debug/net7.0/HashSetCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/bin/Debug/net7.0/HashSetCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/obj/Debug/net7.0/HashSetCollection.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/obj/Debug/net7.0/HashSetCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/obj/Debug/net7.0/HashSetCollection.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/obj/Debug/net7.0/HashSetCollection.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/obj/Debug/net7.0/HashSetCollection.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/obj/Debug/net7.0/HashSetCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/obj/Debug/net7.0/refint/HashSetCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/obj/Debug/net7.0/HashSetCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/obj/Debug/net7.0/HashSetCollection.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/HashSetCollection/obj/Debug/net7.0/ref/HashSetCollection.dll
